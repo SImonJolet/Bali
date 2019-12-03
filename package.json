@@ -1,5 +1,5 @@
 {
-  "name": "Bali",
+  "name": "bali",
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
@@ -55,5 +55,14 @@
     "tslint": "~5.15.0",
     "typescript": "~3.4.3"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SImonJolet/Bali.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SImonJolet/Bali/issues"
+  }
 }
